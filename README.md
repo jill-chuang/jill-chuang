@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Jill
 
-<!--
-**jill-chuang/jill-chuang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI Engineer focused on edge AI, MLOps with full data lineage, and multimodal retrieval systems. Active research interest in AI security & governance — agent boundaries, model supply-chain risk, and adversarial AI defense.
 
-Here are some ideas to get you started:
+Best Paper Award @ ICSSI 2024.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Background
+
+- M.S. Information Management, National Chiayi University (2024)
+- Currently shipping production AI in edge and multimodal contexts
+- Languages: Rust, Python, C++, Dart
+
+## Reach me
+
+- Email: chichuang0813@gmail.com
+- LinkedIn: https://www.linkedin.com/in/jill-chuang/
