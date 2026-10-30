@@ -1,16 +1,15 @@
-# Hi, I'm Jill
+# Hi, I'm Jill 👋
 
-AI Engineer focused on edge AI, MLOps with full data lineage, and multimodal retrieval systems. Active research interest in AI security & governance — agent boundaries, model supply-chain risk, and adversarial AI defense.
+I'm an AI Engineer with experience in building and deploying AI systems, particularly in edge AI, MLOps, and multimodal applications.
 
-Best Paper Award @ ICSSI 2024.
+I'm interested in how AI technologies can be integrated into real-world systems to solve practical problems. My current interests include AI system architecture, agentic systems, and AI security & governance.
 
 ## Background
 
-- M.S. Information Management, National Chiayi University (2024)
-- Currently shipping production AI in edge and multimodal contexts
-- Languages: Rust, Python, C++, Dart
+- M.S. in Information Management, National Chiayi University (2024)
+- Best Paper Award — ICSSI 2024
 
-## Reach me
+## Connect
 
-- Email: chichuang0813@gmail.com
-- LinkedIn: https://www.linkedin.com/in/jill-chuang/
+- [LinkedIn](https://www.linkedin.com/in/jill-chuang/)
+- [Email](mailto:chichuang0813@gmail.com)
